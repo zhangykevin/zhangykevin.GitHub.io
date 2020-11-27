@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 今天的日期
+date: 2020-11-7
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [日期,提交]
+description: 首次提交。
 ---
 
-这里是博客正文。
+今天是2020年11月27日。
 
 
 
